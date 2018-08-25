@@ -409,7 +409,7 @@
     position: relative;
   }
   .footer-nav {
-    border-bottom: 1px solid #555;
+    /* border-bottom: 1px solid #555; */
     padding-bottom: 1.5625em;
     margin-bottom: 1.5625em;
 }
