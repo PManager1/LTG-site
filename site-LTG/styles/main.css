@@ -78,11 +78,11 @@
     .bg-1 {
         height: 500px;
         /* background-image: url('../../images/emirates.jpg'); */
-        background-image: url('../../images/sheesha.jpg');
+        background-image: url('../images/sheesha.jpg');
     }
 .photo{
   height: 200px;
-  background-image: url('../../images/jay-mil.jpg');
+  background-image: url('../images/jay-mil.jpg');
   border-radius: 50%;
 }
 
@@ -94,7 +94,7 @@
 
 .photo-2{
   height: 200px;
-  background-image: url('../../images/jay-mil2.jpg');
+  background-image: url('../images/jay-mil2.jpg');
 }
 
 
