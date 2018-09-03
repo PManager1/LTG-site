@@ -55,29 +55,24 @@
   color: #0074D9;
 }
 
-@media only screen and (min-device-width: 1200px) {
-.below-why-liberty {
-        /* margin-bottom: 2px; */
-        font-size: 30px;
-        margin-left: 50px;
-        margin-right: 50px;
-        line-height: 1.5;
-        /* font-weight: bolder; */
-  }
-}
 
-@media only screen and (max-device-width: 650px) {
+
+/* @media only screen and (max-device-width: 650px) { */
   /* define mobile specific styles come here */
   .below-why-liberty {
+    /* font-size: 30px; */
+    /* line-height: 1.5; */
+
           /* margin-bottom: 2px; */
-          font-size: 30px;
           /* margin-left: 50px;
           margin-right: 50px; */
-          line-height: 1.5;
           /* font-weight: bolder; */
           /* color: #00ff00; */
+
+          font-size: 20px;
+          margin-left:3px;
     }
-}
+/* } */
 
 
 
