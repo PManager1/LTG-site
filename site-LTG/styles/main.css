@@ -66,7 +66,7 @@
   }
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 650px) {
   /* define mobile specific styles come here */
   .below-why-liberty {
           /* margin-bottom: 2px; */
